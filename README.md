@@ -2,6 +2,8 @@
 # DashboardApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.7.
+##LIVE LINK
+https://aura-dashboard-opal.vercel.app/dashboard
 
 ## Development server
 

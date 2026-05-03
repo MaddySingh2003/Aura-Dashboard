@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DashboardApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.7.
@@ -65,4 +64,4 @@ For more information on using the Angular CLI, including detailed command refere
 =======
 # Aura-Dashboard
 Built entirely with Angular 18 and Tailwind CSS, this kit is designed with cutting-edge visual principles, featuring beautiful glassmorphism, soft shadows, vibrant gradients, and micro-animations that will instantly WOW your users.
->>>>>>> 6b9855857e703851dd28b9964254b8a7d0984cb4
+
